@@ -42,13 +42,13 @@
 
 ## 🌐 Connect with Me  
 
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR_LINK)  
-- 📧 **Email:** yourmail@example.com  
-- 🌍 [Portfolio Website](https://yourportfolio.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/afreedshaik1)  
+- 📧 **Email:** skafreed5@gmail.com
+
 
 ---
 
-## 👀 Profile Visitors  
+##👀 Profile Visitors  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=for-the-badge)  
 
