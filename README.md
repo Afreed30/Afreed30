@@ -18,12 +18,12 @@
 
 ### 🐍 Languages
 <div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="70" style="margin: 10px;" /></a>$nsbp$nsbp$nsbp$nsbp 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="70" style="margin: 10px;" /></a>$nsbp$nsbp$nsbp$nsbp
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="70" style="margin: 10px;" /></a>$nsbp$nsbp$nsbp$nsbp 
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="70" style="margin: 10px;" /></a>$nsbp$nsbp$nsbp$nsbp 
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
   <br />
-  <sub><b>Python • JavaScript • HTML • CSS</b></sub>
+  <sub><b>Python&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;• CSS</b></sub>
 </div>
 
 ---
