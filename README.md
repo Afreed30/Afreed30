@@ -48,7 +48,7 @@
 
 ---
 
-##👀 Profile Visitors  
+## 👀 Profile Visitors  
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Afreed30&label=Profile%20Views&color=blue&style=for-the-badge)  
 
