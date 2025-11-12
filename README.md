@@ -130,7 +130,32 @@
 
 ## 📂 Projects  
 
-🔹 **Bank Management System** – Python + MySQL with user & admin modules  
+### 💰 **Bank Management System**
+🔹 **Tech Stack:** `Python`, `MySQL`  
+🔹 **Description:**  
+A complete banking application with **User & Admin modules**, featuring account creation, real-time transactions, and secure data management using MySQL.  
+
+🔹 **Features:**  
+- 🔐 Secure login system (Admin/User)  
+- 💸 Real-time transaction records  
+- 🏦 Account management (Deposit, Withdraw, Transfer)  
+- 📊 Admin dashboard for reports & analytics  
+
+🔹 **GitHub Repo:** [👉 View Project](https://github.com/Afreed30/Bank-Management-System)
+
+---
+
+### 🚌 **Wegooo Bus Booking System**
+🔹 **Tech Stack:** `Django`, `React`, `MySQL`, `Razorpay`  
+🔹 **Description:**  
+A full-stack web app for **bus ticket booking** with seat selection, Razorpay payments, and PDF ticket generation.  
+
+🔹 **Features:**  
+- 🔍 Real-time bus search & seat availability  
+- 💳 Razorpay payment integration  
+- 🧾 Ticket PDF generator with premium design  
+- 🧠 Admin dashboard for route & schedule management  
+ 
 
 ---
 
