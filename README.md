@@ -8,82 +8,52 @@
 📚 Currently learning **Python | MySQL | React | DSA**
 
 ---
-<h2 align="center">⚙️ Tech Arsenal ⚙️</h2>
+<h2 align="center">💻 My Tech Universe 🌌</h2>
 
 <p align="center">
-  <em>✨ Building Full-Stack Applications with Clean Code, Modern Design & Smart Architecture ✨</em>
+  <em>⚡ Turning ideas into scalable web applications using modern technologies ⚡</em>
 </p>
 
 ---
 
-### 🚀 Languages
-<p align="center">
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="Python" title="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" alt="JavaScript" title="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="HTML5" title="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" alt="CSS3" title="CSS3" />
-  </a>
-</p>
+### 🐍 Languages
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="75" />
+  <br />
+  <sub><b>Python • JavaScript • HTML • CSS</b></sub>
+</div>
 
 ---
 
 ### ⚛️ Frameworks & Libraries
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="React" title="React" />
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="55" alt="Django" title="Django" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="Node.js" title="Node.js" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=django,react,nodejs" height="75" />
+  <br />
+  <sub><b>Django • React • Node.js</b></sub>
+</div>
 
 ---
 
-### 🗄️ Databases & Backend
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="60" alt="MySQL" title="MySQL" />
-  </a>
-</p>
+### 🗄️ Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mysql" height="75" />
+  <br />
+  <sub><b>MySQL</b></sub>
+</div>
 
 ---
 
 ### 🧰 Tools & Platforms
-<p align="center">
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="55" alt="Git" title="Git" />
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="55" alt="GitHub" title="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="VS Code" title="VS Code" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=postman" height="55" alt="Postman" title="Postman" />
-  </a>
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="75" />
+  <br />
+  <sub><b>Git • GitHub • VS Code • Postman</b></sub>
+</div>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=💻+Code.+Create.+Innovate.+Repeat!;🚀+Full-Stack+Development+with+Django+%26+React;🐍+Python+%7C+Django+%7C+MySQL+%7C+JavaScript" alt="Typing Animation" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=💻+Code.+Create.+Innovate.+Repeat!;🚀+Building+Full+Stack+Apps+with+Django+%26+React;🐍+Python+%7C+Django+%7C+MySQL+%7C+Fullstack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=🚀+Python+%7C+Django+%7C+React+%7C+MySQL+Developer;🎯+Clean+Code,+Creative+Design,+Continuous+Learning;💡+Code.+Commit.+Conquer." alt="Typing Animation" />
 </p>
 
 ---
