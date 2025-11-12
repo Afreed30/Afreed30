@@ -121,8 +121,9 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=🚀+Python+%7C+Django+%7C+React+%7C+MySQL+Developer;🎯+Clean+Code,+Creative+Design,+Continuous+Learning;💡+Code.+Commit.+Conquer." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=5BCDEC&center=true&vCenter=true&width=800&lines=🚀+Python+%7C+Django+%7C+React+%7C+MySQL+Developer;🎯+Clean+Code,+Creative+Design,+Continuous+Learning;💡+Code.+Commit.+Conquer." alt="Typing Animation" />
 </p>
+
 
 ---
 
