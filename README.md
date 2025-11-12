@@ -30,14 +30,12 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afreed30&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afreed30&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Afreed30&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Afreed30&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=Afreed30&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Afreed30&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 
