@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Afreed  
+# 👋 Hi, I'm Afreed Shaik
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Student+%7C+Developer+%7C+Tech+Enthusiast;Bachelor+of+Commerce+in+Computer+Applications;Exploring+Python%2C+MySQL%2C+React+and+DSA)](https://git.io/typing-svg)
 
