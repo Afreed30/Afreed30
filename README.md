@@ -12,27 +12,37 @@
 
 ### 🚀 Languages  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="JavaScript" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" height="60" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" height="60" alt="CSS3" />
+  </a>
 </p>
 
 ### 🧩 Frameworks & Libraries  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" height="60" alt="React" />
+  </a>
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="MySQL" />
+  </a>
 </p>
 
 ### ⚙️ Tools & Platforms  
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60" alt="Tools" />
 </p>
 
 ---
