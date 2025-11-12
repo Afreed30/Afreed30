@@ -8,7 +8,7 @@
 📚 Currently learning **Python | MySQL | React | DSA**
 
 ---
-<h2 align="center">💻 My Tech Universe 🌌</h2>
+<<h2 align="center">💻 My Tech Universe 🌌</h2>
 
 <p align="center">
   <em>⚡ Turning ideas into scalable web applications using modern technologies ⚡</em>
@@ -18,7 +18,10 @@
 
 ### 🐍 Languages
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css" height="75" />
+  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="70" style="margin: 10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="70" style="margin: 10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="70" style="margin: 10px;" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="70" style="margin: 10px;" /></a>
   <br />
   <sub><b>Python • JavaScript • HTML • CSS</b></sub>
 </div>
@@ -27,7 +30,9 @@
 
 ### ⚛️ Frameworks & Libraries
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=django,react,nodejs" height="75" />
+  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="70" style="margin: 10px;" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="70" style="margin: 10px;" /></a>
+  <a href="https://nodejs.org/en/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="70" style="margin: 10px;" /></a>
   <br />
   <sub><b>Django • React • Node.js</b></sub>
 </div>
@@ -36,7 +41,7 @@
 
 ### 🗄️ Database
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="75" />
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="70" style="margin: 10px;" /></a>
   <br />
   <sub><b>MySQL</b></sub>
 </div>
@@ -45,7 +50,10 @@
 
 ### 🧰 Tools & Platforms
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="75" />
+  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="70" style="margin: 10px;" /></a>
+  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="70" style="margin: 10px;" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="70" style="margin: 10px;" /></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="70" style="margin: 10px;" /></a>
   <br />
   <sub><b>Git • GitHub • VS Code • Postman</b></sub>
 </div>
