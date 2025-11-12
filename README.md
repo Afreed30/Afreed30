@@ -17,46 +17,106 @@
 ---
 
 ### 🐍 Languages
-<div align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank"><img src="https://skillicons.dev/icons?i=html" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" height="70" style="margin: 10px;" /></a>&nbsp;&nbsp;&nbsp;&nbsp; 
-  <br />
-  <sub><b>Python&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;JavaScript&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;HTML&nbsp;&nbsp;&nbsp;&nbsp;• CSS</b></sub>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="120">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" height="70" />
+      </a>
+      <br /><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=js" height="70" />
+      </a>
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" height="70" />
+      </a>
+      <br /><sub><b>HTML</b></sub>
+    </td>
+    <td align="center" width="120">
+      <a href="https://developer.mozilla.org/en-US/docs/Glossary/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" height="70" />
+      </a>
+      <br /><sub><b>CSS</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### ⚛️ Frameworks & Libraries
-<div align="center">
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://skillicons.dev/icons?i=django" height="70" style="margin: 10px;" /></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" height="70" style="margin: 10px;" /></a>
-  <a href="https://nodejs.org/en/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" height="70" style="margin: 10px;" /></a>
-  <br />
-  <sub><b>Django • React • Node.js</b></sub>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=django" height="70" />
+      </a>
+      <br /><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" height="70" />
+      </a>
+      <br /><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="140">
+      <a href="https://nodejs.org/en/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" height="70" />
+      </a>
+      <br /><sub><b>Node.js</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🗄️ Database
-<div align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" height="70" style="margin: 10px;" /></a>
-  <br />
-  <sub><b>MySQL</b></sub>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" height="70" />
+      </a>
+      <br /><sub><b>MySQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🧰 Tools & Platforms
-<div align="center">
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" height="70" style="margin: 10px;" /></a>
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" height="70" style="margin: 10px;" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" height="70" style="margin: 10px;" /></a>
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" height="70" style="margin: 10px;" /></a>
-  <br />
-  <sub><b>Git • GitHub • VS Code • Postman</b></sub>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" height="70" />
+      </a>
+      <br /><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="130">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" height="70" />
+      </a>
+      <br /><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="130">
+      <a href="https://code.visualstudio.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=vscode" height="70" />
+      </a>
+      <br /><sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="130">
+      <a href="https://www.postman.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postman" height="70" />
+      </a>
+      <br /><sub><b>Postman</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
