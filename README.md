@@ -155,7 +155,8 @@ A full-stack web app for **bus ticket booking** with seat selection, Razorpay pa
 - 💳 Razorpay payment integration  
 - 🧾 Ticket PDF generator with premium design  
 - 🧠 Admin dashboard for route & schedule management  
- 
+
+🔹 **GitHub Repo:** [👉 View Project](https://github.com/Afreed30/wegooo)
 
 ---
 
